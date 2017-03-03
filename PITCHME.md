@@ -21,5 +21,22 @@ From their home page:
 #VSLIDE
 ##Why shouldn't you use Kubernetes?
 
+#VSLIDE
+##Kubernetes Primitives
+1. Pods
+2. Service
+3. ConfigMaps
+4. Deployment
+
+#VSLIDE
+##That sounds like a lot.. how do we do it here?
+deis.io
+1. Buildpacks
+2. Rolling Updates
+3. Development agility
+4. *It's still Kubernetes.*
+
+#VSLIDE
+##Sort of short.. questions?
 
 
